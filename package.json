@@ -1,6 +1,6 @@
 {
     "name": "@lukestanbery/meta-importer",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Webpack loader which aggregates all modules in a directory into a single module.",
     "source": "src/index.js",
     "main": "dist/index.js",
