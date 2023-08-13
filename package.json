@@ -1,7 +1,7 @@
 {
-    "name": "npm-package-boilerplate",
+    "name": "@lukestanbery/meta-importer",
     "version": "1.0.0",
-    "description": "Boilerplate NPM package.",
+    "description": "Webpack loader which aggregates all modules in a directory into a single module.",
     "source": "src/index.js",
     "main": "dist/index.js",
     "targets": {
